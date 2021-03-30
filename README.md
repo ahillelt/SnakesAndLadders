@@ -13,6 +13,8 @@ Should look like this (rich text):
 
 ![image](https://user-images.githubusercontent.com/1520612/113036380-395ab300-9162-11eb-99a4-d64db2ebfa36.png)
 
+![image](https://user-images.githubusercontent.com/1520612/113037782-bf2b2e00-9163-11eb-9afa-28b835c0a0e9.png)
+
 ![image](https://user-images.githubusercontent.com/1520612/113036497-64450700-9162-11eb-9cc2-38816eb7179c.png)
 
 Should not look like this (plain text):
