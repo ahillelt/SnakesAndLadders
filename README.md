@@ -1,13 +1,10 @@
 # SnakesAndLadders
+# Alon Hillel-Tuch
 Simple non-GUI Snakes and Ladder Game
-
-Alon Hillel-Tuch
-ah5647
 
 Written in C++, follow terminal prompts. Snakes and Ladder elements are hard coded constants. They can be changed by modifying the values of the constants, self-explanatory labelling has been used. If you want to have them randomized please request. 
 
 Please run in a terminal supporting rich text, a text only compiler may cause issues. 
-
 
 Should look like this (rich text):
 
